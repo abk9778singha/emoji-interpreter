@@ -5,7 +5,7 @@ Every emojis have different meanings. This app helps you to find the real meanin
 
 ## Demo -
 
-You can view this app live here - [Demo](https://)
+You can view this app live here - [Demo](https://magic-emoji-interpreter.netlify.app/)
 
 ## Tech Stack -
 
